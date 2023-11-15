@@ -18,7 +18,7 @@ const page = () => {
       <img width={400} src='/assets/perfil.jpg' className='rounded-xl border-2 border-[#98B4B2]' />
       <div className='flex-initial w-auto lg:w-[600px]'>
         <h2 className='text-[#98B4B2] font-bold'>Ezequiel Puglisi</h2>
-        <p className='text-xl'>Soy un apasionado desarrollador front end con experiencia en el mundo de la programación. Mi habilidad para trabajar con tecnologías clave como JavaScript, React Node.js, Firebase y AWS me ha permitido crear soluciones innovadoras y escalables. Siempre estoy buscando desafío emocionantes para seguir creciendo y aprendiendo en este fascinante campo.
+        <p className='text-xl text-left'>Soy un apasionado desarrollador front end con experiencia en el mundo de la programación. Mi habilidad para trabajar con tecnologías clave como JavaScript, React Node.js, Firebase y AWS me ha permitido crear soluciones innovadoras y escalables. Siempre estoy buscando desafíos emocionantes para seguir creciendo y aprendiendo en este fascinante campo.
         </p>
         <div className='my-4 flex flex-row items-center gap-4'>
           <Link target='_blank' href="https://wa.me/5491124601196" passHref>
